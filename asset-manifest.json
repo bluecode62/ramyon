@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ramyon/static/css/main.87358ade.css",
+    "main.js": "/ramyon/static/js/main.582e420c.js",
+    "static/js/453.30a33588.chunk.js": "/ramyon/static/js/453.30a33588.chunk.js",
+    "index.html": "/ramyon/index.html",
+    "main.87358ade.css.map": "/ramyon/static/css/main.87358ade.css.map",
+    "main.582e420c.js.map": "/ramyon/static/js/main.582e420c.js.map",
+    "453.30a33588.chunk.js.map": "/ramyon/static/js/453.30a33588.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87358ade.css",
+    "static/js/main.582e420c.js"
+  ]
+}
