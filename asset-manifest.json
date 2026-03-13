@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ramyon/static/css/main.87358ade.css",
-    "main.js": "/ramyon/static/js/main.582e420c.js",
-    "static/js/453.30a33588.chunk.js": "/ramyon/static/js/453.30a33588.chunk.js",
+    "main.css": "/ramyon/static/css/main.80a6e46d.css",
+    "main.js": "/ramyon/static/js/main.1bf3630c.js",
+    "static/js/453.584436ee.chunk.js": "/ramyon/static/js/453.584436ee.chunk.js",
     "index.html": "/ramyon/index.html",
-    "main.87358ade.css.map": "/ramyon/static/css/main.87358ade.css.map",
-    "main.582e420c.js.map": "/ramyon/static/js/main.582e420c.js.map",
-    "453.30a33588.chunk.js.map": "/ramyon/static/js/453.30a33588.chunk.js.map"
+    "main.80a6e46d.css.map": "/ramyon/static/css/main.80a6e46d.css.map",
+    "main.1bf3630c.js.map": "/ramyon/static/js/main.1bf3630c.js.map",
+    "453.584436ee.chunk.js.map": "/ramyon/static/js/453.584436ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87358ade.css",
-    "static/js/main.582e420c.js"
+    "static/css/main.80a6e46d.css",
+    "static/js/main.1bf3630c.js"
   ]
 }
