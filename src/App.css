@@ -1,0 +1,62 @@
+.App {
+  margin: 0 auto;
+}
+.App a {
+  list-style: none;
+  text-decoration: none;
+}
+.App h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.wrap {
+  width: 1070px;
+  text-align: center;
+}
+.wrap.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.wrap h2 {
+  margin-top: 30px;
+  font-weight: bold;
+  color: red;
+}
+.wrap .visual_main {
+  width: 1070px;
+  height: 400px;
+}
+.wrap .visual_main img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  margin: 10px 0;
+}
+.best_box {
+  width: 1070px;
+  padding: 50px;
+  text-align: center;
+  margin: 0 auto;
+}
+.wrap .best_product {
+  width: 1070px;
+}
+.wrap .best_product h4,
+p {
+  color: black;
+}
+.wrap .best_product h4 {
+  font-weight: bold;
+  color: rgb(243, 97, 97);
+}
+.wrap .best_product p {
+  color: #5a5555;
+}
